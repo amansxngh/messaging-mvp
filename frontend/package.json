@@ -1,0 +1,21 @@
+{
+  "name": "messaging-mvp-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "socket.io-client": "^4.7.1",
+    "react-router-dom": "^6.8.1",
+    "lucide-react": "^0.263.1",
+    "clsx": "^2.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.0.3"
+  }
+}
